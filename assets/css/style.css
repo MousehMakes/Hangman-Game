@@ -1,0 +1,147 @@
+body {
+    align-content: center;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    top: 0; 
+    height: 100%;
+    color: rgb(57, 2, 94);
+    left: 0; 
+	background: url('../images/bg.png') no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    font-family: 'Kaushan Script', cursive;
+}
+
+#wordString {
+    border-radius: 25px;
+    font-size: 25px;
+    align-content: center;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: #1af3c4;
+}
+
+#instruct {
+    border-radius: 25px;
+    font-size: 25px;
+    align-content: center;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: #1af3c4;
+}
+
+h1 {
+    border-radius: 25px;
+    align-content: center;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    font-size: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;  
+    background-color: #1af3c4;
+}
+
+#answer {
+    border-radius: 25px;
+    align-content: center;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;  
+    background-color: #1af3c4;
+
+}
+
+#result {
+    border-radius: 25px;
+    font-size: 30px;
+    align-content: center;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    margin-top: 20px;
+    margin-bottom: 20px;  
+    background-color: #1af3c4;
+
+}
+
+#winCount {
+    border-radius: 25px;
+    font-size: 25px;
+    align-content: center;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    margin-top: 20px;
+    margin-bottom: 20px;  
+    background-color: #1af3c4;
+
+}
+
+#wrongG {
+    border-radius: 25px;
+    font-size: 20px;
+    align-content: center;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    margin-top: 20px;
+    margin-bottom: 20px;  
+    background-color: #1af3c4;
+
+}
+
+#lettersG {
+    border-radius: 25px;
+    font-size: 20px;
+    align-content: center;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    margin-top: 20px;
+    margin-bottom: 20px;  
+    background-color: #1af3c4;
+
+}
+
+#pic {
+    border-radius: 25px;
+    font-size: 20px;
+    align-content: center;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    margin-top: 20px;
+    margin-bottom: 20px;  
+    background-color: #1af3c4;
+
+}
